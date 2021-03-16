@@ -1,0 +1,10 @@
+O último ACK não espera uma resposta?
+
+
+
+
+Bugs para Corrigir:
+
+Segmentation Fault quando o tamanho do data tá muito grande
+Arrumar um jeito de não precisar enviar seq final
+/ do /save
